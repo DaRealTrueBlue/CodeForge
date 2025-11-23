@@ -41,7 +41,7 @@ CodeForge supports custom themes! To contribute a theme:
 ### Getting Started
 
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/yourusername/CodeForge.git`
+2. Clone your fork: `git clone https://github.com/darealtrueblue/CodeForge.git`
 3. Create a new branch: `git checkout -b feature/your-feature-name`
 4. Make your changes
 5. Test thoroughly
@@ -104,7 +104,7 @@ Feel free to open an issue with the "question" label or reach out through the di
 
 ## 📜 Code of Conduct
 
-Please be respectful and constructive in all interactions. See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details.
+Please be respectful and constructive in all interactions. See [Code of Conduct](CODE_OF_CONDUCT.md) for details.
 
 ---
 
