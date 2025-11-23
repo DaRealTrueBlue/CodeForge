@@ -11,7 +11,7 @@
   ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
   [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/DaRealTrueBlue/CodeForge)
   
-  [Download](https://darealtrueblue.ddns.net/versions.html) • [Documentation](#-getting-started) • [Contributing](CONTRIBUTING.md) • [Changelog](#-changelog)
+  [Download](http://darealtrueblue.ddns.net/versions.html) • [Documentation](#-getting-started) • [Contributing](CONTRIBUTING.md) • [Changelog](#-changelog)
 </div>
 
 ---
