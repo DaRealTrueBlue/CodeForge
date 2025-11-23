@@ -232,7 +232,7 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) to get started.
 6. Push to your fork (`git push origin feature/AmazingFeature`)
 7. Open a Pull Request
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+See [Contributing](CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
