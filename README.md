@@ -266,7 +266,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Layout configurations saved to/loaded from JSON
 - All UI elements update dynamically with theme changes
 
-### Version 1.0.6 (November 26th, 2025)
+### Version 1.0.6
 - ⚡ Major performance optimizations:
   - Compiled regex pattern caching for 50% faster syntax highlighting
   - Buffered file I/O (8KB buffer) for faster file loading and saving
@@ -289,35 +289,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 💅 UI Improvements:
   - Complete minimap redesign with smooth 2-pixel height lines
   - Better visual feedback throughout the editor
-
-### Version 1.0.3 (November 23rd, 2025)
-- ✨ Current line highlighting for better code navigation
-- ✨ Close tab with `Ctrl+W` shortcut
-- ✨ Improved minimap with colour-coded content (comments, definitions, code)
-- 🐛 Fixed potential crashes in title bar updates
-- 💅 Better visual feedback throughout the editor
-
-### Version 1.0.2 (November 22nd, 2025)
-- ✨ Added auto-indentation for code blocks
-- ✨ Smart bracket auto-completion and matching
-- ✨ Auto-close quotes and wrap selections
-- ✨ Toggle comments (Ctrl+/) for multiple languages
-- ✨ Duplicate line (Ctrl+D) and move lines (Alt+Up/Down)
-- ✨ Multi-cursor support (Ctrl+Alt+Up/Down)
-- ✨ Recent files menu with quick access
-- ✨ Auto-save every 30 seconds
-- ✨ Minimap for code navigation
-- ✨ Keyboard shortcuts help dialog
-- ✨ Smart backspace for bracket pairs
-- ✨ Bracket matching with visual highlighting
-
-### Version 1.0.1 (November 22nd, 2025)
-- 🎉 Initial public release
-- Basic code editing functionality
-- Syntax highlighting
-- File explorer
-- Terminal integration
-- Multi-file tabs
 
 ---
 
