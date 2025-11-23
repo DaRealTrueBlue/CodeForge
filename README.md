@@ -327,7 +327,7 @@ Have questions or suggestions?
 - 🐛 **Found a bug?** [Open an issue](https://github.com/DaRealTrueBlue/CodeForge/issues/new)
 - 💡 **Feature idea?** [Submit a feature request](https://github.com/DaRealTrueBlue/CodeForge/issues/new)
 - 💬 **Need help?** [Start a discussion](https://github.com/DaRealTrueBlue/CodeForge/discussions)
-- 🔧 **Want to contribute?** See [CONTRIBUTING.md](CONTRIBUTING.md)
+- 🔧 **Want to contribute?** See [Contributing](CONTRIBUTING.md)
 
 ---
 
