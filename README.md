@@ -64,7 +64,17 @@ Support for multiple languages:
 
 ## 📸 Screenshots
 
-*Screenshots coming soon - CodeForge v1.1.0-beta features 4 beautiful themes!*
+### Dark Theme (Default)
+<img src="screenshots/dark.png" alt="CodeForge Dark Theme" width="800">
+
+### Light Theme
+<img src="screenshots/light.png" alt="CodeForge Light Theme" width="800">
+
+### Monokai Theme
+<img src="screenshots/monokai.png" alt="CodeForge Monokai Theme" width="800">
+
+### Dracula Theme
+<img src="screenshots/dracula.png" alt="CodeForge Dracula Theme" width="800">
 
 ---
 
