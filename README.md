@@ -11,7 +11,7 @@
   ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
   [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/DaRealTrueBlue/CodeForge)
   
-  [Download](https://darealtrueblue.lol/cf/versions.html) • [Documentation](#-getting-started) • [Contributing](CONTRIBUTING.md) • [Changelog](#-changelog)
+  [Download](https://darealtrueblue.ddns.net/versions.html) • [Documentation](#-getting-started) • [Contributing](CONTRIBUTING.md) • [Changelog](#-changelog)
 </div>
 
 ---
@@ -72,7 +72,7 @@ Support for multiple languages:
 
 ### Download Pre-Built Executable
 
-**Easiest option**: Download the latest release from the [versions page](https://darealtrueblue.lol/cf/versions.html).
+**Easiest option**: Download the latest release from the [versions page](http://darealtrueblue.ddns.net/versions.html).
 
 ### Run from Source
 
