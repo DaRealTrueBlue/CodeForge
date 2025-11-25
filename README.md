@@ -94,7 +94,7 @@ Support for multiple languages:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/darealtrueblue/codeforge.git
+git clone https://github.com/YOUR-NAME/codeforge.git
 cd codeforge
 ```
 
